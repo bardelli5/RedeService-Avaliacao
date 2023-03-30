@@ -17,6 +17,10 @@ A aplicação tem uma lista básica de funções, algumas delas são:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+Foi utilizada também as ferramentas de carga de trabalho para aplicação desktop, baixadas no Installer do Visual Studio:
+
+`Desenv. para desktop com .NET` e `Desenv. com a plataforma Univ. do Windows`
+
 ##
 <h2>Pré-requisitos</h2>
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
