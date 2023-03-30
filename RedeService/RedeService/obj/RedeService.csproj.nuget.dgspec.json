@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\AvaliacaoRedeService\\RedeService-Avaliacao\\RedeService\\RedeService\\RedeService.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\RedeService-Avaliacao\\RedeService\\RedeService\\RedeService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\AvaliacaoRedeService\\RedeService-Avaliacao\\RedeService\\RedeService\\RedeService.csproj": {
+    "C:\\Users\\Administrator\\Documents\\RedeService-Avaliacao\\RedeService\\RedeService\\RedeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\AvaliacaoRedeService\\RedeService-Avaliacao\\RedeService\\RedeService\\RedeService.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\RedeService-Avaliacao\\RedeService\\RedeService\\RedeService.csproj",
         "projectName": "RedeService",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\AvaliacaoRedeService\\RedeService-Avaliacao\\RedeService\\RedeService\\RedeService.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\RedeService-Avaliacao\\RedeService\\RedeService\\RedeService.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\AvaliacaoRedeService\\RedeService-Avaliacao\\RedeService\\RedeService\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\RedeService-Avaliacao\\RedeService\\RedeService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -63,7 +63,7 @@
             this.tabControl1.Location = new System.Drawing.Point(12, 58);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(849, 407);
+            this.tabControl1.Size = new System.Drawing.Size(915, 500);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -166,7 +166,7 @@
             this.tabPage6.Location = new System.Drawing.Point(4, 24);
             this.tabPage6.Name = "tabPage6";
             this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage6.Size = new System.Drawing.Size(841, 379);
+            this.tabPage6.Size = new System.Drawing.Size(907, 472);
             this.tabPage6.TabIndex = 5;
             this.tabPage6.Text = "Sobre Mim";
             this.tabPage6.UseVisualStyleBackColor = true;
@@ -175,7 +175,7 @@
             // 
             this.sobreMim1.Location = new System.Drawing.Point(3, 0);
             this.sobreMim1.Name = "sobreMim1";
-            this.sobreMim1.Size = new System.Drawing.Size(890, 440);
+            this.sobreMim1.Size = new System.Drawing.Size(920, 488);
             this.sobreMim1.TabIndex = 0;
             // 
             // mensagemLabel
@@ -191,7 +191,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(976, 567);
+            this.ClientSize = new System.Drawing.Size(973, 595);
             this.Controls.Add(this.mensagemLabel);
             this.Controls.Add(this.tabControl1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
