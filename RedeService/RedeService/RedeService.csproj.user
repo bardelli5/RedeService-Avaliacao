@@ -19,5 +19,8 @@
     <Compile Update="userControls\ListaNumeros.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="userControls\SobreMim.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

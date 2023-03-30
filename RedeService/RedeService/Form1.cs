@@ -35,7 +35,6 @@ namespace RedeService
             consultaCep.ChangeMessage += OnChangeMessageRequest;
         }
 
-
         private void consultaBanco1_Load(object sender, EventArgs e)
         {
             ConsultaBanco consultaBanco = (ConsultaBanco)sender;
